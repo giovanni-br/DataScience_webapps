@@ -1,0 +1,9 @@
+
+cmappertools==1.0.26
+matplotlib==3.4.3
+matplotlib-inline==0.1.3
+numpy==1.21.2
+pandas==1.4.2
+plotly==5.8.0
+scipy==1.8.0
+seaborn==0.11.2
